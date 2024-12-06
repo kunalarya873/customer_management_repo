@@ -20,9 +20,9 @@ Follow these steps to set up the project locally:
 
 Clone the project repository to your local machine.
 
-`git clone <repository_url>`
+`git clone https://github.com/kunalarya873/customer_management_repo`
 
-`cd <repository_directory>` 
+`cd customer_management_repo` 
 
 ### 2\. **Backend Setup (Django)**
 
